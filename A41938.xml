@@ -1,0 +1,418 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great prophecy of King William's success in Flanders: or, The happy fourth year of His Majesty's reign giving several famous predictions of the honour of England, in His glorious actions to be performed this present year, 1692. Licensed and entred according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41938</idno>
+            <idno type="STC">Wing G1745</idno>
+            <idno type="STC">ESTC R218946</idno>
+            <idno type="EEBO-CITATION">99830497</idno>
+            <idno type="PROQUEST">99830497</idno>
+            <idno type="VID">34949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2107:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great prophecy of King William's success in Flanders: or, The happy fourth year of His Majesty's reign giving several famous predictions of the honour of England, in His glorious actions to be performed this present year, 1692. Licensed and entred according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London; and re-printed at Edinburgh,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy tightly bound affecting text.</note>
+                  <note>Reproduction of the original at the John Rylands University Library, Deansgate, Manchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1689-1694 : William and Mary) --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34949:1"/>
+            <pb facs="tcp:34949:1" rendition="simple:additions"/>
+            <p>THE <hi>Great Prophecy</hi> OF King William's SUCCESS IN FLANDERS: OR, The Happy Fourth Year OF <hi>HIS MAJESTY</hi>'s <hi>REIGN:</hi> Giving ſeveral <hi>Famous Predictions</hi> of the Honour of <hi>England,</hi> in His Glorious Actions to be performed this preſent year, 1692.</p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>Printed at <hi>London;</hi> And Re-Printed at <hi>Edinburgh,</hi> 1692.</p>
+            <pb facs="tcp:34949:2"/>
+            <pb facs="tcp:34949:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34949:3"/>
+            <pb n="1" facs="tcp:34949:3"/>
+            <head>
+               <hi>The</hi> Great Prophecy <hi>of</hi> King William<hi>'s Suc<g ref="char:EOLhyphen"/>ceſs in</hi> Flanders, &amp;c.</head>
+            <p>THE Great Changes and Revolutions which have happen'd in the Affairs of the World have been very often uſher'd in with ſome ſtrange Paſſages and Predictions. It would be tedious to recount all the prodigious Comets, Viſions, Apparitions and Prophecies, which have in all Ages given occaſion of Wonder and Amazement. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his is moſt certain, never was there a more active World than now, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erhaps the mightieſt Wheels are now at work that the great Machine ever ſet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>-moving. The long depending Tryal of skill between the vaſt Ambition of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rance,</hi> and the tugging World engaged againſt him, affords Mankind no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ean Hopes and Fears, and no common Expectation. And if Portents and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redictions were ever the Forerunners of extraordinary Revolutions, we have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Reaſon to believe, that ſince the preſent Ferment of <hi>Europe</hi> is too violent to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old long at a ſtay, and ſome great Change muſt ſuddenly follow; if all thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peaking Oracles are not quite ſilenced, there may be ſome Propheticks point<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to this preſent Age. Though Prophecies, 'tis true, generally meet the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Treatment from the incredulous World, which <hi>Noah</hi>'s Prophetick Ser<g ref="char:EOLhyphen"/>mon of forty years, whilſt he was building the Ark, received from the inſenſible Race of mankind before the univerſal Deluge.</p>
+            <p>And as the generality of Prophecies are commonly ſo wrapt in Diſguiſe and Riddle, that is very difficult to give 'em an Interpretation; yet without vanity <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> here preſent the Reader with ſome few poſſibly as free from that Veil and Obſcurity as any he has met with, and perhaps thoſe that ſpeak as plainly to his Great Fourth Year of our preſent King <hi>William</hi> as can be expected.</p>
+            <p>The Firſt ſhall be that ancient one going under the Title of <hi>Mr. Truſwell, the Recorder of Lincoln's Prophecy;</hi> found the beſt part of a hundred Years ago in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Ruins of a Religious Houſe near <hi>Lincoln,</hi> and poſſibly firſt written as long before, the barbarous <hi>Latin</hi> in which it was penn'd giving ſufficient aſſurance of its Antiquity, being much about the Standart of the Learning of thoſe Times. And that the Reader may be confident 'tis no modern <hi>Novel</hi> or <hi>Fiction,</hi> it has been in print theſe forty Years, in a Treatiſe called <hi>A Voice from Heaven,</hi> printed <hi>Anno</hi> 1652. And conſequently as near as it reſembles the preſent 1692. can be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o foiſted Sham or Invention.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="prophecy">
+                        <head>The PROPHECY.</head>
+                        <p>
+                           <hi>Lilium manebit in meliori parte, &amp; movebitur contra ſemen Leonis. Et stabit ex una parte inter ſpinas Regni ſui, cujus Regnum eſt Terra Lunae, per totum Orbem ti<g ref="char:EOLhyphen"/>mendum. Et veniet Filius hominis ferens feras in brachiis, cum multitudine Popu<g ref="char:EOLhyphen"/>li, tranſibit multas aquas, &amp; veniet in terram Leonis, auxilium quarens à beſtiis terrae ſuae. Veniet Aquila ex Oriente, aliis expanſis radiis filii Hominis. Et hoc anno Caſtraſuper Thameſin peribunt, &amp; magn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> eris timor in toto Orbe, &amp; in qua<g ref="char:EOLhyphen"/>damparte
+<pb n="2" facs="tcp:34949:4"/>Terrae. Magna Praelia ernos inter multos Reges, &amp; in illo die erit</hi> Pugna Cruenta <hi>in qua</hi> Lilium <hi>perde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> coronum ſuam, de qua coronabitur filius hominis. Et quarto anno multa erunt pro fide certamina; caput mundi erit ad Terram. Filius hominis &amp; Aquila elevabuntur. &amp; tunc erit Pax in Terris <g ref="char:V">Ʋ</g>niverſalis. Et accipiet filius hominis mirabile ſignum. Et erit magna frugum abundantia. ibit in Terram Crucis.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In ENGLISH.</p>
+            <p>The <hi>Lilly</hi> ſhall remain upon the better part, and he ſhall be moved againſt the Seed of the Lyon. And <hi>be</hi> ſhall ſtand on one part amongſt the <hi>Thorns</hi> of his own <hi>Kingdom,</hi> whoſe Kingdom is the <hi>Land of the Moon,</hi> which is to be dread<g ref="char:EOLhyphen"/>ed throughout the World. And there ſhall come <hi>the Son of Man,</hi> bearing the <hi>Wild-beaſts in his Arms,</hi> with a multitude of People. He ſhall paſs many <hi>Wa<g ref="char:EOLhyphen"/>ters,</hi> and ſhall come to the Land of the <hi>Lyon,</hi> looking for help from the Beaſts of his own <hi>Countrey.</hi> Then ſhall there come an <hi>Eagle</hi> out of the Eaſt, and his Wings ſpread with the Beams of the <hi>Son of Man.</hi> And in that year ſhall be deſtroyed <hi>Caſtles</hi> upon the <hi>Thames,</hi> and there ſhall be great fear over all the World, and in a part of the Land. There ſhall be great <hi>Battles</hi> among many Kings. In that <hi>Day</hi> ſhall be the <hi>Bloudy Field,</hi> in which the <hi>Lilly</hi> ſhall loſe his <hi>Crown,</hi> wherewith the <hi>Son of Man</hi> ſhall be crowned: and in the fourth year many <hi>Battles</hi> ſhall be for the <hi>Faith.</hi> The <hi>Head</hi> of the World ſhall be brought to the Earth. And the <hi>Son of Man</hi> with the <hi>Eagle</hi> ſhall be exalted. And there ſhall be Univerſal Peace over all the World. And the <hi>Son of Man</hi> ſhall receive a wonderfull Sign. And there ſhall be great plenty of all Fruits of the Earth And he ſhall go into the Land of the Croſs.</p>
+            <p>
+               <hi>[The Lilly ſhall remain upon the better part.]</hi> By the <hi>Lilly</hi> is plainly meant <hi>France,</hi> whoſe Enſigns are the Lillies <hi>[ſhall remain on the better part]</hi> plainly ſignifies the long Succeſs and Triumph that <hi>France</hi> has obtained ſo many Years together; the <hi>better part</hi> being interpreted the <hi>Conquering ſide,</hi> the Glory, Great<g ref="char:EOLhyphen"/>neſs and uninterrupted Proſperity of that encroaching Monarch having ſuffici<g ref="char:EOLhyphen"/>ently hitherto clamed him the Title of <hi>Conquerour.</hi>
+            </p>
+            <p>
+               <hi>[And be ſhall be moved againſt the ſeed of the Lyon.]</hi> That is, He ſhall make War againſt the <hi>Vnited Provinces</hi> and <hi>Spaniſh Netherlands.</hi> who are altogether called the <hi>Belgick Lyon,</hi> and give the <hi>Lyon</hi> for their Enſign, the very Figure of their Countrey in the Man being obſerved to reſemble a <hi>Lyon. (And be ſhall ſtand upon one part amongſt the Thorns of his own Kingdom.)</hi> His ſtanding upon Thorns ſignifies the Uneaſineſs of his own Kingdom, the Subjects of <hi>France,</hi> from the Tyranny and Slavery they groan under, the long Ambition of ſo Aſpiring a Prince laying no little Yoke and Oppreſſion upon that miſerable People. <hi>Whoſe Kingdom is the Land of the Mon.</hi> (And the Land of the Moon muſt mean <hi>France</hi> ſtill, ſo called from the aforeſaid Uneaſineſs of the <hi>French,</hi> who only want ſome happy and favourable hour, (poſſibly under the umbrage of ſome kind Invaſion) to ſhake off their long Yoke, and <hi>change</hi> their Fetters for Liberty; the <hi>Moon</hi> being always the Emblem of <hi>change,</hi> as indeed the whole Prophecy, (as you will find in the ſequel) looks that way. <hi>(Which is to be dreaded throughout the World.)</hi> Here this dreaded Kingdom plainly points to
+<pb n="3" facs="tcp:34949:4"/>
+               <hi>France,</hi> whoſe Power and Growth has but too long and too truly been the Ter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our of the World. <hi>(And there ſhall come the Son of man, who carries the wild Beaſts in his arms.)</hi> This muſt intend the King and Kingdom of <hi>England,</hi> which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo diſtinguiſhing a Difference from all other Princes, that no Arms but thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>England</hi> pretend to wild Beaſts, a part of their Eſcutcheon. <hi>(With a multi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ude of people.)</hi> With a <hi>multitude</hi> indeed, as <hi>Generaliſſimo</hi> of the <hi>Confederacy,</hi> ſo many Nations and People fighting under his Standard.</p>
+            <p>[He ſhall paſſe many waters, and ſhall come to the Land of the Lyon, looking for help from the Beaſts of his own Country] The paſſing of many Waters can apply to nothing but our preſent Soveraign, his firſt Expedition for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Redemption of <hi>England,</hi> his Voyage to <hi>Ireland,</hi> his paſſing the <hi>Boyne,</hi> his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ucceſſe over the <hi>Shanon,</hi> his ſeveral Expeditions to <hi>Flanders,</hi> all manifeſtly poin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng at no other Prince. <hi>His coming to the Land of the Lyon,</hi> his Embarquing or <hi>Flanders,</hi> looking for help from the Beaſts of his Own Countrey, that is, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpecting aſſiſtance from the States General of the United Provinces, the na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve Countrey of our preſent Sovereign. The word <hi>[Beaſts]</hi> in the Language <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Prophecy meaning [the People.] ['Then ſhall there come an Eagle <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>out of the Eaſt, and his wings ſpread with the Beams of the Son of man.] <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere is plainly decypher'd his Imperial Majeſty of <hi>Germany,</hi> whoſe Enſign is, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>Eagle diſplay'd;</hi> and his Wings being being ſpread with the Beams of the Son <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man, denotes the Confederacy between <hi>England</hi> and the Empire, the ſpread<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g the Imperial Wings by the Influence of the Engliſh Beams being a Prophe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> truly ſo fulfilled in his <hi>Britanick</hi> Majeſty's vigorous Eſpuſing of the common <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uarrel of Chriſtendom, and the Dependence the whole Confederacy has upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at Potent and Leading Hero and Champion of their Cauſe. ['And in this year ſhall be deſtroyed Caſtles upon the Thames, and there ſhall be great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear over all the World, and in a part of the Land.] Theſe Caſtles upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Thames undoubtedly can ſignifie nothing but the Naval Preparations: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe floating Caſtles, the Fleets that ſhall be engaged in this Quarrel. The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar that ſhall be over the World, being no more than the univerſal Apprehen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns on all ſides, together with the Eyes and Concerns of all Nations being <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t and intent upon the Fortune and Succeſſe of ſuch formidable Preparations. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that Fear that ſhall be <hi>in a part of the Land,</hi> may very reaſonably be ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to the preſent ſtate of <hi>England,</hi> where the Difference of Parties and Divi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns ſince the late Revolution, have poſſibly created ſome particular Fears in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gland,</hi> more and above thoſe of the whole World beſides ſo highly (as be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re ſaid) inſtructed in the Common Cauſe of Chriſtendom. ['There ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e great Battels amongſt many Kings.] This ſtill confirms the preſent Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>deracy, in which all <hi>Europe</hi> ſtands engaged ['In that day ſhall be the <hi>Bloudy Field</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which the <hi>Lilly</hi> ſhall loſe his Crown where-with the Son of man ſhall be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rowned.] Here we come to the concluding Stroke, that there ſhall be one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore remarkable <hi>Great Day,</hi> being the <hi>Defenſive Blow,</hi> in which the <hi>Lilly,</hi> viz. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rance,</hi> ſhall be ſubdued and loſe her <hi>Crown,</hi> a Victory that ſhall be the particu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Trophy of <hi>England,</hi> and the vanquiſhed Diadem of <hi>France,</hi> the Conque<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur's Prize and Reward. Nay, the very next Paragraph aſſigns the very Year
+<pb n="4" facs="tcp:34949:5"/>in which this Defeat or Overthrow of <hi>France</hi> ſhall be accompliſhed; <hi>viz.</hi>
+               <q>[And in the <hi>fourth Year,</hi> many Battels ſhall be for the Faith, and the Head of 'the World ſhall be brought to the Earth, and the Son of man and the Eagle ſhall be exalted.]</q> Now what can this <hi>Fourth Year</hi> in this reaſonable Interpreta<g ref="char:EOLhyphen"/>tion direct but this very 1692. the Fourth Year of his Majeſty's Reign, when the Son of man and the Eagle, <hi>viz.</hi> the King of <hi>England</hi> and the Emperor ſhall be ſo highly exalted, by bringing down the Head of the World to the earth, <hi>viz.</hi> The French King, that aſpires at leaſt to be the Head of the World, and indeed who has but too long ſtood fair for being ſo. The only thing tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hi<g ref="char:EOLhyphen"/>therto appears moſt myſtical through the whole Prophecy is, ['Battles for the 'Faith] as if thereby were intimated ſome <hi>Religious War,</hi> which indeed is not the preſent Caſe of <hi>Europe.</hi> But what <hi>[pro fide]</hi> the words in the Original ſhould amount to <hi>[pro fide Chriſtiana]</hi> is going beyond the Text; and truly to make this finiſhing part all of a piece with the foregoing Diſcourſe, we have all imaginable reaſon to conſtruct the word <hi>Fides</hi> more inclining to <hi>Fidelity,</hi> in oppoſition to the Infidelity of <hi>France.</hi> And ſo the conſtruction will run thus: <hi>Viz.</hi> That theſe many great Battles in this great Fourth Year, ſhall be fought in the Cauſe of Righteouſneſſe, Honour, Juſtice and Truth, by the Confederacy, for Recovery of ſo many Towns, Provinces, Principalities and Kingdoms, torn from 'em by the <hi>Rapine</hi> and <hi>Violence</hi> of the French King, or rather by his Treachery and Gold. This being the true <hi>[pro fide]</hi> for which this juſt War is waged againſt that great <hi>Infidel</hi> of the World, ſo notoriouſly guilty o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all manner of Breach of <hi>Faith, Leagues Covenants,</hi> nay <hi>Oaths</hi> themſelves. ['And 'there ſhall be Univerſal Peace over all the World.] Undoubtedly the ſubduing of <hi>France</hi> muſt ſoon ſettle the whole World in Peace, and Plenty accordingly follow. (And the Son of Man ſhall receive a marvelous ſign and ſhall go into the Land of the Croſs.) What this wonderful Sign ſhall be we muſt expect from Time, that part of the Prediction being above the Reach o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Foreſight and Conjecture; nor can we dive ſo far as to aſſign any particular Interpretation to that laſt part, <hi>his going into the Land of the Croſs,</hi> unleſs w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may for once adventure to give this meaning to the Cloſe of the Prophecy, <hi>viz.</hi> That this our <hi>Great ſon of man</hi> ſhall finiſh his Race of Glory, by acquiring a ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brighter Crown; that is, from the Hand of the <hi>Greater Son of Man,</hi> when a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the laſt Trophy and Reward of Vertue and Honour, he ſhall be received into th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Land of the Glorified Sufferer on the Croſs, the Kingdom of Bleſs.</p>
+            <p>Thus far our Engliſh Prophecy. And now let us hear ſomething from Prophet of their own, the famous <hi>Noſtradamus,</hi> the great Favourite of thre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> French Kings, <hi>Henry</hi> the 2d. <hi>Francis</hi> the 2d. and <hi>Charles</hi> the 9th.</p>
+            <q>
+               <l>Celuy qui la Principaute</l>
+               <l>Tiendra par grade cruanté</l>
+               <l>Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fin, verra grand Phalange</l>
+               <l>Par Coup defen tres dangereux,</l>
+               <l>Par accord pourroit fair mieux,</l>
+               <l>Autrement hotraſue D' Orenge.</l>
+            </q>
+            <pb n="5" facs="tcp:34949:5"/>
+            <p>In ENGLISH.</p>
+            <p>
+               <hi>He we who ſhall with great Cruelty hold the Principality, in the Concluſion ſhall ſee a great Army ruined by a moſt dangerous Fire<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>low, he might do better to make an Accord, otherways he ſhall drink the juice of Orange.</hi>
+            </p>
+            <p>Here is firſt, a plain Deſcription of the <hi>French</hi> Dominion, which is certainty carryed on by the greateſt Cruelty and Oppreſſion wherever their Arms have made a Conqueſt; ſo great are the Deſolations of <hi>Germany,</hi> eſpecially <hi>Alſace,</hi> and all that pleaſant, populous and fertile Countrey along the <hi>Rhine,</hi> that there is ſcarce an Inhabitant or a Village left for many Leagues together, to make complaint of the barbarous Inhumanity of the <hi>French</hi> Armies, who have left be<g ref="char:EOLhyphen"/>hind 'em unexampled Inſtances of their Cruelty in ſuch unprecedented Spoils and Ravage.</p>
+            <p>
+               <hi>(And he ſhall ſee his Army ruined by the moſt dangerous blow of Fire.)</hi> Not im<g ref="char:EOLhyphen"/>probable, Heaven often meaſures by the <hi>Lex talionis. Fire ſhall deſtroy thoſe who have destroyed ſo many innocent Millions by Fire.</hi> But by this Fire he ſeems to intimat the Force of Powder, the now common and terrible Fuel of the hor<g ref="char:EOLhyphen"/>rid Engines of War. <hi>(He might do better to make an Accord)</hi> Certainly this would be wholeſom Counſel for <hi>France,</hi> if the Ambition of the Great <hi>Lewis</hi> would re<g ref="char:EOLhyphen"/>ſound ſome part of his ill-gotten Victories to purchaſe that Peace, which indeed is not agreeing with his Kidney. <hi>(Otherways he ſhall drink the Juice of Orange.)</hi> By this Juice of <hi>Orange</hi> muſt be meant, The Arms of our Illuſtrious Monarch, for want of which Accord, not made, nor now like to be, he ſhall ſeel the Force and Power of that Victorious Hero deſigned for Greatneſs and Wonders.</p>
+            <p>I ſhall only add one more of the Prophecies of <hi>Nostradamus.</hi>
+            </p>
+            <q>
+               <l>Le grand D' Hongrie ira dans la Nacelle</l>
+               <l>Le Novean ne fera guerre novelle,</l>
+               <l>A ſon voiſin qu'il tiendra affiege,</l>
+               <l>Et le Noire au avec ſon Alteſse,</l>
+               <l>Ne ſouffrir a que par trop on le preſse</l>
+               <l>Durant Trois ans ſes Gens tiendra range.</l>
+            </q>
+            <p>In ENGLISH.</p>
+            <p>
+               <hi>The great one of</hi> Hungary <hi>ſhall go to the Boat, the new one ſhall not make a new War againſt his Neighbour, whom he ſhall beſiege on every ſide. And the black one with his Highneſs, ſhall not ſuffer him to be over preſſed. During three Years he ſhall keep his People in order.</hi>
+            </p>
+            <p>By <hi>the Great one of</hi> Hungary is meant the Emperour, <hi>Hungary</hi> being his Here<g ref="char:EOLhyphen"/>ditary
+<pb n="6" facs="tcp:34949:6"/>Kingdom. <hi>[Great one]</hi> makes it this preſent Emperour, all his Imperial P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>deceſſors from <hi>Noſtradamus</hi>'s Time being ſo far from <hi>Great</hi> in <hi>Hungary,</hi> that the wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Kingdom till this laſt Reign was all in the hands of Infidels, a Province of the Turk Empire. By <hi>his going into the boat</hi> is meant, his Embarquing in the <hi>Confederation.</hi> the <hi>new one</hi> is meant, a new King of <hi>France,</hi> that is, ſuch a one as <hi>France</hi> never had fore. <hi>He ſhall not make a new war with his Neighbour,</hi> that is, It ſhall not be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> War, but the old Game play'd out; his continued Ambition of acquiring the Uni<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſal Empire of <hi>Europe;</hi> his ſhort Ceſſation of Arms in King <hi>Charles</hi> the Second's Rei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the few Conqueſts, he than gave up, being ſo far from any intended Peace w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Empire, or any other of the Allies, that on the contrary, 'twas only a Blind lull his Neighbours for ſome little time a-ſleep, till he could get better opportun<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and more ſtrength to cut their Throats. The feeble <hi>Nimiguin</hi> Treaty, and all the <hi>tended</hi> Mediatorſhip of King <hi>Charles</hi> (pardon the <hi>Epithete,</hi> for though a <hi>bold</hi> one, a true one) being only that polltick <hi>Cobweb lawn.</hi> made on purpoſe to break throu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>His Neighbour, whom he ſhall beſiege on every ſide,</hi> is the Emperour, whom he does <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only invade on one ſide, but is likewiſe the grand <hi>Animator</hi> (If not the <hi>original</hi> Fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> brand) of the preſent Turkiſh Wars that attaque the Emperour on the other ſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>And the black one with his Highneſs, ſhall not ſuffer him to be overpreſs'd:</hi> that is, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spaniard,</hi> with his Highneſs the <hi>Prince</hi> of <hi>Orange,</hi> ſhall take the Emperour's part, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> make ſome Check to the Progreſs of <hi>France;</hi> for <hi>The black one</hi> muſt mean <hi>Spain,</hi> the pithete of <hi>Black</hi> being the vulgar Characteriſtick of the <hi>Spaniard,</hi> and <hi>His High<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> muſt mean His preſent Majeſty, more properly called <hi>His Highneſs</hi> in the Prophecy, the young <hi>Hannibal</hi> againſt <hi>Rome,</hi> being an early <hi>ſworn</hi> Foe to <hi>France:</hi> and though n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo Potent a one, yet no leſs zealous a Champion of the Confederacy, when only <hi>Pri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of <hi>Orange.</hi>
+            </p>
+            <p>[<hi>During</hi> Three <hi>Years he ſhall keep his People in order</hi>] Here the Engliſh and Fren<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Prophet jump, for here we come to the old Prediction of this approaching 92, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mous <hi>Fourth Year</hi> of His Majeſty's Reign before mentioned. During <hi>three Years</hi> of o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sovereigns Reign <hi>France</hi> ſhall hold up his Head againſt his Enemies, and make h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhift to keep Peace at home. But this great <hi>Fourth Year</hi> let him look for Domeſil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Inſurrections and Rebellions from a People overladen with the intolerable Burthen ſo long a War; and feel the Welght of the Impending Bolts that hang over him; who Execution perhaps the Juſtice of Providence has thus long retarded, to fall at laſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o home and more heavy. When both the <hi>Eagle</hi> and the <hi>Son of man</hi> ſhal be exalted, at the <hi>Lilly</hi> meet the Fatelt has deſerved.</p>
+            <p>I hope I have here given the Reader a very rational and natural Conſtruction theſe ſeveral Prophecies. I ſhall only add one Remark. That theſe Propheſies w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome others printed about 15 Years ſince, it was endeavoured there to make the gre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hero foretold of, to do ſuch Wonders againſt <hi>France;</hi> (<hi>viz.</hi> the <hi>Black one</hi> in this Pr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>phecy, and the <hi>Son of man</hi> in the other) to be meant <hi>King Charles the ſecond.</hi> A ve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> odd ſort of an interpretation, to make that unfortunate, if not infatuated Prince, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foredoom'd Scourge of <hi>France,</hi> when his Inclinations lay ſo clearly the contrary way; Prince ſo ſtrangely riveted and tyed to the French Intereſt, that both the old E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gliſh Honour and the Safety of his People were daily leſſen'd by the exorbitant Grow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>France.</hi> (The beſt Favour <hi>England</hi> could expect from ſo inſatiate in Ambition, to laſt devoured by this hungry <hi>Polyphemus.</hi>) The Obligation of Truſt lodged in him <hi>Arbiter of Europe,</hi> nor the Common Juſtice of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iding the injur'd Side, the <hi>Confederas</hi> in ſhort, neither, theſe, nor any other Conſiderations, were of Force to wean h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from his extravegant Dotage and Fondneſs to <hi>France;</hi> but rather to lend him all Help the ſtrengthning that <hi>Horſe,</hi> whoſe Foot, if he would have remembred, had beſt (<hi>viz.</hi> in his <hi>Exile</hi>) not over kindly ſpurned him out of Doors:</p>
+            <trailer>FIN<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S.</trailer>
+            <pb facs="tcp:34949:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
